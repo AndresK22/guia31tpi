@@ -1,0 +1,9 @@
+/* ejemplo1b.css   HG19010 */
+fichero {background-color:blue;}
+ficha {background-color:red; display:block;}
+nombre {color:white; display:inline;}
+apellido {color:yellow; display:inline;}
+direccion {color:yellow;font-size:1cm; display:inline;}
+telefono {color:green;font-family:sans-serif;display:inline;}
+email {color:orange;font-family:Georgia;display:inline;}
+website {color:white;}

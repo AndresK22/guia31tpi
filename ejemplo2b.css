@@ -1,0 +1,6 @@
+/* ejemplo2b.css   HG19010 */
+pais {background-color:orange; font-family:Arial;}
+departamento {background-color:green; display:block;}
+cabecera {color:brown; display:inline;}
+habitantes {color:white; display:inline;}
+altura {color:magenta; display:inline;}
